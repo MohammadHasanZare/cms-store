@@ -1,2 +1,1 @@
-
-panel admin
+ datebase tables
